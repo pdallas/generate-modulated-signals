@@ -12,6 +12,7 @@ An example figure is shown below:
 ![test](https://user-images.githubusercontent.com/64161512/147837490-c87b8b9b-bd00-4d0d-b359-7830ac170470.jpg)
 
 
-An example figure that compares a trained Convolutional Neural Network (CNN) demodulator and 
+An example figure that compares a trained Convolutional Neural Network (CNN) demodulator, a trained Recurrent Neural Network (RNN) demodulator and Maximum-Likelihood detection is given below:
 
-![cmp](https://user-images.githubusercontent.com/64161512/147837426-cf14bd5b-c842-42a5-afb3-019a65faf5c5.jpg)
+
+![jjhjhjht_3](https://user-images.githubusercontent.com/64161512/147837558-1026fc76-4f23-44c2-9f34-e4e089be9db5.jpg)
